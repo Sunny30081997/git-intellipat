@@ -2,3 +2,4 @@ The file which has been created by the GIt commands.
 new line added
 third line added
 fourth line added
+merge conflicts added
